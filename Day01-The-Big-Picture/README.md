@@ -67,3 +67,5 @@
 - Automation with CI/CD and Infrastructure as Code is core.
 - From coding to deployment: Everything is a chain—each step matters!
 
+
+https://github.com/Vikky-Prabhas/DevOps-AWS-for-Beginners-/blob/72ac368b87b7cb50fa4ba6838e117939d60d5f3c/Day01-The-Big-Picture/generated-image.png
