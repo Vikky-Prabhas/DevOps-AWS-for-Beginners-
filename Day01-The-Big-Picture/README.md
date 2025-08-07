@@ -67,15 +67,3 @@
 - Automation with CI/CD and Infrastructure as Code is core.
 - From coding to deployment: Everything is a chain—each step matters!
 
-## 📝 Pro Tips
-
-- Use folders per day/topic (like this one).
-- Use emojis, diagrams, and simple language for clarity!
-- Commit daily so you track your progress.
-
-## 🎨 Where to Generate Your DevOps Workflow Pic?
-
-- Use a free tool like:
-  - excalidraw.com - for hand-drawn-looking workflow diagrams
-  - diagrams.net - for flowcharts and system diagrams
-- Save your image to
