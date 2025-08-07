@@ -68,4 +68,4 @@
 - From coding to deployment: Everything is a chain—each step matters!
 
 
-![image alt]https://github.com/Vikky-Prabhas/DevOps-AWS-for-Beginners-/blob/72ac368b87b7cb50fa4ba6838e117939d60d5f3c/Day01-The-Big-Picture/generated-image.png
+![image alt](https://github.com/Vikky-Prabhas/DevOps-AWS-for-Beginners-/blob/72ac368b87b7cb50fa4ba6838e117939d60d5f3c/Day01-The-Big-Picture/generated-image.png)
